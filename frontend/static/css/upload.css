@@ -1,0 +1,137 @@
+.droparea {
+  height: 150px;
+  width: 400px;
+  border: 2px white dashed;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* trial */
+.drag-area {
+  border: 2px dashed #fff;
+  height: 200px;
+  width: 550px;
+  border-radius: 5px;
+  box-shadow: 0px 3px 7px #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 16px;
+}
+.drag-area.active {
+  border: 2px solid #fff;
+}
+.drag-area .icon {
+  font-size: 100px;
+  color: #fff;
+}
+.drag-area header {
+  font-size: 20px;
+  font-weight: 500;
+  color: "#212529";
+}
+.drag-area span {
+  font-size: 12px;
+  font-weight: 500;
+  color: #fff;
+  margin: 10px 0 15px 0;
+}
+.drag-area button {
+  padding: 10px 25px;
+  /* font-size: 15px; */
+  border: none;
+  outline: none;
+  background: #12a3d2;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 500;
+  color: #fff;
+}
+.drag-area img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.droparea-btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#proceed-button {
+  width: fit-content;
+  padding: 5px 12px;
+  margin-top: 25px;
+  background-color: #2295a2;
+  color: #fff;
+  font-weight: 500;
+}
+
+.card-text {
+  color: "#212529";
+  font-weight: 600;
+}
+
+#upload-body {
+  margin-top: 8rem;
+}
+
+.upload-page-heading {
+  color:"#0a58ca";
+  text-align: center;
+}
+
+.upload-option {
+  height: 14rem;
+  width: 12rem;
+  cursor: pointer;
+  background-color: #fff;
+  padding: 1rem;
+  text-align: center;
+  margin-right: 60px;
+  box-shadow: 0px 3px 7px #000;
+}
+
+.img-in-card {
+  height: 70%;
+}
+
+
+.upload-new-data-btn {
+  background: #515dba;
+  color: "#212529";
+  font-weight: 500;
+  width: fit-content;
+  /* float: right; */
+  position: absolute;
+  right: 31px;
+  font-size: 0.95rem;
+  top: 12px;
+  box-shadow: none;
+  border: none;
+}
+
+.upload-new-data-btn:hover {
+  background: #054357;
+  box-shadow: 0 0 0 0.25rem #0542579c;
+}
+
+.upload-new-data-btn:focus {
+  box-shadow: 0 0 0 0.25rem #0542579c;
+  background: #054357;
+  outline: none;
+}
+
+.upload-new-data-btn img {
+  object-fit: contain;
+  height: 14px;
+  margin-top: -3px;
+  margin-left: 7px;
+}

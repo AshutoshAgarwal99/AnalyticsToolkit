@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="851" height="477" viewBox="0 0 851 477">
+  <defs>
+    <filter id="Rectangle_7024" x="0" y="0" width="auto" height="auto" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#505050" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_74" x="75.5" y="108.5" width="710.5" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#6893f3" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_78" x="75.5" y="181.233" width="710.5" height="102.16" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#012f96" flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_32" x="714" y="348" width="66.5" height="66.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-color="#c3d5ff"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_33" x="711.5" y="348" width="66" height="66.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-color="#c3d5ff"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8594" data-name="Group 8594" transform="translate(-77 -293)">
+    <g transform="matrix(1, 0, 0, 1, 77, 293)" filter="url(#Rectangle_7024)">
+      <g id="Rectangle_7024-2" data-name="Rectangle 7024" transform="translate(13 12)" fill="#f8f8f8" stroke="#eee" stroke-width="2">
+        <rect width="821" height="447" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="819" height="445" rx="9" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_7025" data-name="Rectangle 7025" width="770.725" height="269.302" rx="6" transform="translate(110.5 328.25)" fill="#fff" stroke="#e4e9ef" stroke-width="1"/>
+    <g id="Group_8587" data-name="Group 8587" transform="translate(-3.338 -84.068)">
+      <line id="Line_1283" data-name="Line 1283" y2="214.746" transform="translate(165.296 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1284" data-name="Line 1284" y2="214.746" transform="translate(280.717 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1285" data-name="Line 1285" y2="214.746" transform="translate(396.137 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1286" data-name="Line 1286" y2="214.746" transform="translate(511.557 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1287" data-name="Line 1287" y2="214.746" transform="translate(626.978 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1288" data-name="Line 1288" y2="214.746" transform="translate(742.397 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1289" data-name="Line 1289" y2="214.746" transform="translate(857.819 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.5"/>
+      <line id="Line_1290" data-name="Line 1290" x2="703.941" transform="translate(153.878 647.703)" fill="none" stroke="#dbdbdb" stroke-width="0.75"/>
+      <line id="Line_1291" data-name="Line 1291" x2="703.941" transform="translate(153.878 441.623)" fill="none" stroke="#dbdbdb" stroke-width="0.75"/>
+      <line id="Line_1292" data-name="Line 1292" x2="703.941" transform="translate(153.878 596.183)" fill="none" stroke="#b1b2b2" stroke-width="0.5"/>
+      <line id="Line_1293" data-name="Line 1293" x2="703.941" transform="translate(153.878 544.663)" fill="none" stroke="#b1b2b2" stroke-width="0.5"/>
+      <line id="Line_1294" data-name="Line 1294" x2="703.941" transform="translate(153.878 493.143)" fill="none" stroke="#b1b2b2" stroke-width="0.5"/>
+    </g>
+    <text id="_0k" data-name="0k" transform="translate(132 568)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0k</tspan></text>
+    <text id="_20k" data-name="20k" transform="translate(147 517)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-22" y="0">20k</tspan></text>
+    <text id="_40k" data-name="40k" transform="translate(147 466)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-22" y="0">40k</tspan></text>
+    <text id="_80k" data-name="80k" transform="translate(147 363)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-22" y="0">80k</tspan></text>
+    <text id="_60k" data-name="60k" transform="translate(147 414)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-22" y="0">60k</tspan></text>
+    <text id="_0" data-name="0" transform="translate(157 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <text id="_1" data-name="1" transform="translate(273 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(389 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(504 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4" data-name="4" transform="translate(619 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+    <text id="_5" data-name="5" transform="translate(735 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(850 588)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6</tspan></text>
+    <path id="Path_75" data-name="Path 75" d="M715.854,148.925c-12.8,8.474-29.972,6.011-44.286.463s-27.734-13.876-42.846-16.6c-30.421-5.481-59.744,12.579-90.293,17.3-31.048,4.8-62.773-4.465-90.863-18.53s-53.515-32.847-80.519-48.9c-17.732-10.544-36.71-20.087-57.228-22.243-27.894-2.929-55.311,8.075-80.276,20.864a792.459,792.459,0,0,1-76.749,33.842c-42.851,18.792-101.2,51.1-129.441,11V260.35h692.5Z" transform="translate(138.146 304.043)" fill="#c3d5ff"/>
+    <g transform="matrix(1, 0, 0, 1, 77, 293)" filter="url(#Path_74)">
+      <path id="Path_74-2" data-name="Path 74" d="M714.477,145.437c-14.059,6.607-34.9,6.507-52.234,3.193s-32.582-9.338-49.047-13.849-35.619-7.519-53.008-4.29c-11.91,2.209-21.895,7.157-34.065,8.856-18.551,2.591-37.961-3.03-51.382-10.7s-22.693-17.3-34.678-25.683c-11.379-7.961-40-33.21-88.4-26.564-16.023,2.2-28.382,9.163-39.44,16.058q-26.072,16.254-50.487,33.32c-11.931,8.338-24.846,17.313-43.208,20.09-21.631,3.273-43.946-3.067-62.7-9.967s-38.079-14.873-60.465-15.3c-28.785-.544-52.99,11.435-73.384,22.893v85.8h692.5Z" transform="translate(62.52 39.2)" fill="rgba(104,147,243,0.92)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 77, 293)" filter="url(#Path_78)">
+      <path id="Path_78-2" data-name="Path 78" d="M693,13.762Q672.247,9.555,651.49,5.35c-9.248-1.875-18.6-3.763-28.44-4.5-23.4-1.744-46.716,3.208-67.247,9.235S515.761,23.4,493.2,27.046c-8.3,1.341-17.229,2.167-25.688,1.12-15.1-1.869-24.994-9.029-34.51-15.335S410.682.062,395.189.623c-22.43.809-32.092,14.736-48.754,22.494a28.6,28.6,0,0,1-9.138,2.721c-4.139.44-8.376-.219-12.554-.549-14.853-1.172-30.726,2.207-39.614,8.433-1.653,1.158-3.287,2.487-5.951,2.922-5.1.832-9.294-1.994-13.66-3.581-9.223-3.352-21.836-1.239-33.112-1.578C200.233,30.52,180.218,9.519,148,9.26c-22.8-.184-40.495,10.2-62.382,13.476C54.472,27.4,22.317,16.841.5,4.507V84.66H693Z" transform="translate(84 186.73)" fill="#5082f3"/>
+    </g>
+    <rect id="Rectangle_7030" data-name="Rectangle 7030" width="770.725" height="116.302" rx="6" transform="translate(109.5 614.849)" fill="#fff" stroke="#e4e9ef" stroke-width="1"/>
+    <line id="Line_1295" data-name="Line 1295" y2="83" transform="translate(567.5 633.5)" fill="none" stroke="#cfd8e3" stroke-width="1" stroke-dasharray="6"/>
+    <g id="Group_8590" data-name="Group 8590">
+      <rect id="Rectangle_7031" data-name="Rectangle 7031" width="21" height="31" transform="translate(136 675)" fill="#5082f3"/>
+      <rect id="Rectangle_7032" data-name="Rectangle 7032" width="21" height="41" transform="translate(157 665)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-2" data-name="Group 8590" transform="translate(62)">
+      <rect id="Rectangle_7031-2" data-name="Rectangle 7031" width="21" height="47" transform="translate(136 659)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-2" data-name="Rectangle 7032" width="21" height="41" transform="translate(157 665)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-3" data-name="Group 8590" transform="translate(124)">
+      <rect id="Rectangle_7031-3" data-name="Rectangle 7031" width="21" height="37" transform="translate(136 669)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-3" data-name="Rectangle 7032" width="21" height="41" transform="translate(157 665)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-4" data-name="Group 8590" transform="translate(186)">
+      <rect id="Rectangle_7031-4" data-name="Rectangle 7031" width="21" height="62" transform="translate(136 644)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-4" data-name="Rectangle 7032" width="21" height="59" transform="translate(157 647)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-5" data-name="Group 8590" transform="translate(248)">
+      <rect id="Rectangle_7031-5" data-name="Rectangle 7031" width="21" height="62" transform="translate(136 644)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-5" data-name="Rectangle 7032" width="21" height="66" transform="translate(157 640)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-6" data-name="Group 8590" transform="translate(310)">
+      <rect id="Rectangle_7031-6" data-name="Rectangle 7031" width="21" height="51" transform="translate(136 655)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-6" data-name="Rectangle 7032" width="21" height="56" transform="translate(157 650)" fill="#4dd1b8"/>
+    </g>
+    <g id="Group_8590-7" data-name="Group 8590" transform="translate(372)">
+      <rect id="Rectangle_7031-7" data-name="Rectangle 7031" width="21" height="31" transform="translate(136 675)" fill="#5082f3"/>
+      <rect id="Rectangle_7032-7" data-name="Rectangle 7032" width="21" height="41" transform="translate(157 665)" fill="#4dd1b8"/>
+    </g>
+    <text id="Mon" transform="translate(146 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mon</tspan></text>
+    <text id="Tues" transform="translate(208 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Tues</tspan></text>
+    <text id="Wed" transform="translate(270 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Wed</tspan></text>
+    <text id="Thur" transform="translate(332 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Thur</tspan></text>
+    <text id="Fri" transform="translate(399 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Fri</tspan></text>
+    <text id="Sat" transform="translate(460 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sat</tspan></text>
+    <text id="Sun" transform="translate(520 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sun</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 77, 293)" filter="url(#Ellipse_32)">
+      <circle id="Ellipse_32-2" data-name="Ellipse 32" cx="31.5" cy="31.5" r="31.5" transform="translate(714 348)" fill="#c3d5ff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 77, 293)" filter="url(#Ellipse_33)">
+      <circle id="Ellipse_33-2" data-name="Ellipse 33" cx="31.5" cy="31.5" r="31.5" transform="translate(714 348)" fill="#c3d5ff"/>
+    </g>
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="23.5" cy="23.5" r="23.5" transform="translate(799 649)" fill="#5082f3"/>
+    <circle id="Ellipse_35" data-name="Ellipse 35" cx="14.5" cy="14.5" r="14.5" transform="translate(808 658)" fill="#4dd1b8"/>
+    <g id="Group_8591" data-name="Group 8591" transform="translate(12)">
+      <text id="X" transform="translate(790 722)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">X</tspan></text>
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="4" cy="4" r="4" transform="translate(778 714)" fill="#c3d5ff"/>
+    </g>
+    <g id="Group_8592" data-name="Group 8592" transform="translate(36)">
+      <text id="Y" transform="translate(790 722)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Y</tspan></text>
+      <circle id="Ellipse_36-2" data-name="Ellipse 36" cx="4" cy="4" r="4" transform="translate(778 714)" fill="#5082f3"/>
+    </g>
+    <g id="Group_8593" data-name="Group 8593" transform="translate(60)">
+      <text id="Z" transform="translate(790 722)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Z</tspan></text>
+      <circle id="Ellipse_36-3" data-name="Ellipse 36" cx="4" cy="4" r="4" transform="translate(778 714)" fill="#4dd1b8"/>
+    </g>
+    <text id="_0-2" data-name="0" transform="translate(583 720)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <text id="_1-2" data-name="1" transform="translate(583 699)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(583 678)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(583 657)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4-2" data-name="4" transform="translate(583 636)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+    <rect id="Rectangle_7033" data-name="Rectangle 7033" width="155" height="6" rx="3" transform="translate(593 714)" fill="#e4e9ef"/>
+    <rect id="Rectangle_7034" data-name="Rectangle 7034" width="155" height="6" rx="3" transform="translate(593 693)" fill="#e4e9ef"/>
+    <rect id="Rectangle_7035" data-name="Rectangle 7035" width="155" height="6" rx="3" transform="translate(593 672)" fill="#e4e9ef"/>
+    <rect id="Rectangle_7036" data-name="Rectangle 7036" width="155" height="6" rx="3" transform="translate(593 650)" fill="#e4e9ef"/>
+    <rect id="Rectangle_7037" data-name="Rectangle 7037" width="155" height="6" rx="3" transform="translate(593 629)" fill="#e4e9ef"/>
+    <rect id="Rectangle_7038" data-name="Rectangle 7038" width="70" height="4" rx="2" transform="translate(595 715)" fill="#5082f3"/>
+    <rect id="Rectangle_7039" data-name="Rectangle 7039" width="91" height="4" rx="2" transform="translate(595 694)" fill="#5082f3"/>
+    <rect id="Rectangle_7040" data-name="Rectangle 7040" width="117" height="4" rx="2" transform="translate(595 673)" fill="#5082f3"/>
+    <rect id="Rectangle_7041" data-name="Rectangle 7041" width="125" height="4" rx="2" transform="translate(595 651)" fill="#5082f3"/>
+    <rect id="Rectangle_7042" data-name="Rectangle 7042" width="137" height="4" rx="2" transform="translate(595 630)" fill="#5082f3"/>
+  </g>
+</svg>

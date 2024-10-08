@@ -1,0 +1,101 @@
+.exploration-section {
+  display: flex;
+  justify-content: center;
+}
+
+.visual-dropdown {
+  padding-bottom: 10px;
+}
+
+.visual-dropdown label {
+  font-weight: 500;
+}
+
+table thead th {
+  text-transform: capitalize;
+}
+
+.horizontal-scroll {
+  overflow-y: hidden;
+  overflow-x: overlay;
+  width: 100%;
+  scrollbar-color: #a0aeb2 transparent;
+  scrollbar-width: thin;
+}
+
+.horizontal-scroll::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 10px;
+}
+
+.horizontal-scroll::-webkit-scrollbar {
+  background-color: transparent;
+  height: 10px;
+  width: 8px;
+}
+
+.horizontal-scroll::-webkit-scrollbar-thumb {
+  background-color: #a0aeb2;
+  border-radius: 10px;
+  height: 30px;
+}
+
+.cards-container {
+  background: #dfe6f5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: none;
+  border-top-left-radius: 0px;
+}
+
+.top-level-card-container {
+  width: 100%;
+}
+
+.tab-options {
+  display: flex;
+}
+
+.tab {
+  background: #f2f5fb;
+  margin-right: 4px;
+  padding: 5px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 2px 2px;
+  cursor: pointer;
+}
+
+.tab p {
+  margin: 0px;
+  font-weight: 500;
+  color: #757575;
+  font-size: 0.95rem;
+}
+
+.tab-option-active {
+  background: #dfe6f5;
+}
+
+.tab-option-active p {
+  color: #054357;
+}
+
+a {
+  text-decoration: none;
+}
+
+.dropdowns-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.dropdowns-container > div {
+  flex: 0.45;
+}
+
+.data-exploration-visuals > div {
+  margin: 10px 0;
+}

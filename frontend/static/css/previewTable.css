@@ -1,0 +1,28 @@
+.preview-container {
+  height: fit-content;
+}
+
+.section-bottom {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 80%;
+  margin: 5px auto;
+}
+
+.section-bottom button {
+  margin: 20px;
+  font-weight: 500;
+  color: #054357;
+}
+
+.data-preview-heading {
+  width: fit-content;
+  margin: 20px auto;
+  color:"#212529";
+}
+
+.table-container {
+  height: 36rem;
+  overflow: auto;
+}
